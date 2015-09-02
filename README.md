@@ -24,5 +24,7 @@ Ejecutar el comando gradle build en la carpeta raiz de Volley
 
 ## Paso 5
 
+El jar y el aar
 build/intermediates/bundles/release/classes.jar
 build/outputs/aar/volley-release.aar
+
