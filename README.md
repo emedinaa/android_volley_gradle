@@ -21,3 +21,8 @@ Ejecutar el comando gradle build en la carpeta raiz de Volley
 /Users/emedinaa/Documents/gradle/gradle-2.5/bin/./gradle build --x test
 
 "BUILD SUCCESSFUL"
+
+## Paso 5
+
+build/intermediates/bundles/release/classes.jar
+build/outputs/aar/volley-release.aar
